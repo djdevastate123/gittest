@@ -12,3 +12,4 @@ typy danych :
 -data
 -int
 -decimal
+
