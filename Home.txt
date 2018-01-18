@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-01-18T11:58:33+01:00
+
+====== Programowanie obiektowe ======
+
+Created czwartek 18 styczeń 2018
+
+klasa - szablon iousyjący obiekt, schemat, obiektu
+obiekt - instancja klasy
+
+Klasa to nowy typ danych
+
