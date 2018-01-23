@@ -1,9 +1,10 @@
+#ifndef ULAMEK_H
+#define ULAMEK_H
 /*
  * plik nagłówkowy klasy Ulamek
  * 
  * Copyright 2018  <>
  */
-
 
 class Ulamek {
 private:
@@ -17,6 +18,6 @@ public:
     int get_m();
     void skracaj(); // metoda drukuje skróconą postać ułamka
 };
-
+#endif
 
 
