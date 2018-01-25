@@ -11,3 +11,77 @@ obiekt - instancja klasy
 
 Klasa to nowy typ danych
 
+stos kolejka lista
+
+PODSTAWOWE STRUKTURY DANYCH - 
+
+Stos to struktura danych, którą możemy porównać do naleśników nakładanych na jedną stertę. W danej chwili możemy wykonać jedną z dwóch operacji:
+
+	push(element) - dodanie elementu na wierzchołek stosu (tu naleśnika)
+
+	pop() - zdjęcie elementu z wierzchołka stosu
+
+W tej strukturze danych nie mamy bezpośredniego dostępu do elementu, który nie jest na szczycie. Aby dostać się do innego elementu niż wierzchołek, należy zdjąć wszystkie, które są nad nim.
+
+stos - kolejka lifo
+
+Stos nazywany jest także kolejką lifo - last in first out - ostatni wrzucony na stos jest pierwszym do zdjęcia. Używany jest w wielu algorytmach, między innymi w algorytmie grafowym - przeszukiwanie w głąb - DFS.
+
+Zostaną przedstawione dwie implementacje. Pierwsza statyczna - oparta na tablicy, druga dynamiczna - pamięć na kolejne elementy będzie dynamicznie przydzielana.
+
+wierzchołek stosu ostatni element stsosu, który jest dostępny w danym czasie
+
+
+
+LIFO last in first out
+
+
+	push(wartość) - dodanie elementu na stos
+
+	pop() - usunięcie elementu ze stosu
+
+	empty() - sprawdzenie, czy stos jest pusty
+
+   size() - zwrócenie liczby elementów na stosie
+
+   value() - zwrócenie ostatniego elementu na stosie
+
+
+FIFO first in first out
+
+kolejka to liniowa struktura danych w której element został wstawiony do kolejki jako pierwszy
+
+głowa kolejki 1 element w kolejce
+
+ogon kolejki 1 wolne miejsce w kolejce 
+
+Lista to struktura danych służąca do przechowywania nieznanej z góry ilości informacji tego samego typu.
+
+Składa się ona z węzłów, które zawierają dane przechowywane w liście  oraz wskaźnik do kolejnego elementu
+
+Drzewo binarne jest hierarchiczną strukturą danych, którego elementy nazywa się węzłami lub wierzchołkami.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
