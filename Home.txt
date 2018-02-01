@@ -61,6 +61,9 @@ Składa się ona z węzłów, które zawierają dane przechowywane w liście  or
 
 Drzewo binarne jest hierarchiczną strukturą danych, którego elementy nazywa się węzłami lub wierzchołkami.
 
+Zmienna wskaźnikowa zawiera adres komórki.czwartek 01/02/2018
+
+
 
 
 
